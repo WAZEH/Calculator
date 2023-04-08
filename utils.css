@@ -1,9 +1,12 @@
 .text-center{
   text-align: center;
 }
+.bg-clr{
+  background: forestgreen;
+}
 
-.bg-red{
-  background: red;
+.bg-color{
+  background: powderblue;
 }
 
 .mx-auto{
